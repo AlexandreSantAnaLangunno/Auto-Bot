@@ -1,3 +1,5 @@
+import selenium
+import os
 
 # Olá Mundo para dar tudo certo \(•ω•`\)
 
