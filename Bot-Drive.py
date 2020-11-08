@@ -25,9 +25,9 @@ print("Olá Mundo")
 
 driver = webdriver.Chrome(ChromeDriverManager().install())  
 
-driver.get('https://docs.google.com/document/d/1AD_09SmLzTRvJ-6kWg1kTs_0BNyt0bmWv4yONgO9vrs/edit?usp=sharing') ####### Aqui irei chamar a Função
+driver.get('https://docs.google.com/document/d/1AD_09SmLzTRvJ-6kWg1kTs_0BNyt0bmWv4yONgO9vrs/edit?usp=sharing')
 
-#### Prescissamos de Deijar um Tempo para que o Programa Não Feche
+#### Prescissamos de Deixar um Tempo para que o Programa Não Feche
 
 time.sleep(1000) ###### 1000 == ( '10 segundos' )
 
@@ -36,6 +36,8 @@ time.sleep(1000) ###### 1000 == ( '10 segundos' )
 
     ## ações = (Rolar, Achar_o_Texto_não_formatado)
 
+### Toda data que eu coloquei na tabela do Google Docs termina com ("&zwnj")
+    
 
 
 # Colocar as informações na Área de Transferencia ( Ou Crlt + C ) 
