@@ -4,6 +4,19 @@
 
 ## Organização
     
+    Boas_Vindas:{
+
+        Tela Inicial Apresentando:
+
+            Os Inputs Iniciais
+                input = ( Data_Inicial, Data_Final )
+
+            Botão de "Começar"
+                Que ira redirecionar para o Bot-Drive
+                    redirect = (Bot _Drive)
+
+    }
+
     Bot-Drive:{
     
         Primeiro:
