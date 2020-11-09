@@ -10,3 +10,7 @@ Neste Projeto Irei tentar automatizar meus trabalhos de desing no Canva
 Obrigado
 
 Espero que tenha gostado do Meu Trabalho
+
+Apoie Meu Projeto entrando em Contato por esse email:
+  
+  apoie.auto.bot@gmail.com
